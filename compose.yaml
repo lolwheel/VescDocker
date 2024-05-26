@@ -1,0 +1,6 @@
+services:
+    bldc:
+        build: .
+        command: tail -f /dev/null
+        volumes:
+            - ./vedderb:/vedderb
