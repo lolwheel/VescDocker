@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "future": "c",
+        "istream": "c",
+        "functional": "c",
+        "*.tcc": "c",
+        "mutex": "c",
+        "stop_token": "c",
+        "thread": "c",
+        "confxml.h": "c",
+        "mc_interface.h": "c",
+        "mcpwm_foc.h": "c"
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ],
+    "cortex-debug.variableUseNaturalFormat": false
+}
